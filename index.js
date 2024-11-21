@@ -114,6 +114,7 @@ console.log(CemberinAlani(15))
 /*  (oto test yok) sayilar dizisi içinde kaç adet sayı olduğunu konsola yazdırın */
 // Commit kaplaması için yazdım
 // Gene commit kaplasın diye yaptım gmpthp
+// Daha fazla commit yapmak için boş yorum yaptım
 
 let ucetambolunenler = [],
   enkucuk,
